@@ -250,8 +250,8 @@
     width: 35px;
     border-radius: 20px 20px 20px 20px;
     background-color: rgb(108, 146, 250);
-    margin: 10px auto 0px auto;
-    padding: 5px 5px 5px 5px;
+    margin: 15px auto 0px auto;
+    padding: 1px 5px 5px 5px;
   }
   .container_project .time_project .time_posit {
     display: grid;
